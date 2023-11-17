@@ -10,9 +10,11 @@ This plot is clear, detailed and thorough. Each location is distinguisihed with 
 # Part 2
 Before
 ![image](https://github.com/Midun32/FDSFE_AAdesola/assets/115363661/d90e6cf4-6e83-4e07-834d-c3cf150d042c)
+
 This is a bad plot because it does not have title, the graph is showing two things, it is vague and it is difficult for anyone to know which is which.
 
 After
 ![image](https://github.com/Midun32/FDSFE_AAdesola/assets/115363661/7511d9f8-5e0b-4d78-a2ae-0d939599c6e8)
+
 This is after, the plot now has a title, there are labels in the graph that show which bar is for weekend and which one is for weekday. It is more detailed and clear, also the unit for trip duration is now in parathensis.
 Caption: This graph shows the trip duration on weekdays vs weekends. It is the unclean version of the data so it is highly skewed to the right. It is showing if the trip duration is characteristically different on weekends than on week days. From the graph, we can see that people take more trips on weekdays but take a little longer trips on weekends.
