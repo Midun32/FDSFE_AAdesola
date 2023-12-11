@@ -1,0 +1,1 @@
+This assignment is about converting my headshot to high resolution using concolusional neural networks. I leant how to turn an image black and white and what to change to make it central and ready for the system to understand to bring out better results. I worked with Muhideen Mustapha to understand things better but ultimately did the work. 
